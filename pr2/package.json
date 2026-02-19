@@ -1,0 +1,23 @@
+{
+  "name": "frontback-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunnishka/frontback-2sem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunnishka/frontback-2sem/issues"
+  },
+  "homepage": "https://github.com/gunnishka/frontback-2sem#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
