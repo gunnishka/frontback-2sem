@@ -14,7 +14,7 @@ let goods = [
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  res.send("Main page");
+  res.send(goods);
 });
 
 //CRUD
