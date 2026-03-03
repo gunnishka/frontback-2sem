@@ -1,0 +1,13 @@
+{
+  "name": "pr04-server",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "nanoid": "^3.3.8"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
