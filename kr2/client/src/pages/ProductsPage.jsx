@@ -31,7 +31,7 @@ function ProductForm({
     setForm((f) => ({ ...f, [e.target.name]: e.target.value }));
   useEffect(() => {
     setForm(initial);
-  }, [initial.title]);
+  }, [initial, initial.title]);
 
   return (
     <form
